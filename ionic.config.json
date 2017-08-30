@@ -1,5 +1,9 @@
 {
   "name": "TecnoDeezer",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "8b242043",
+  "type": "ionic-angular",
+  "proxies": [{
+    "path": "/deezerAPI",
+    "proxyUrl": "https://api.deezer.com/"
+  }]
 }
